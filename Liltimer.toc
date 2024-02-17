@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Liltimer
+## Version: 1.00
+## Notes: Starts countdown upon entering an instance
+## Author: Astee
+core.lua
